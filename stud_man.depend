@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481657359 source:e:\computer programing lab term3\lab4\stud_man\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1482626382 source:e:\computer programing lab term3\final project\stud_man\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
